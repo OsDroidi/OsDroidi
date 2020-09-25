@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Osama Saeed</h1>
-<h3 align="center">A Software engineer and passionate frontend developer from Yemen</h3>
+<h3 align="center">A Software engineer and passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osdroidi" alt="osdroidi" /> </p>
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [osdroidi.com](OsDroidi.com)
+- 👨‍💻 All of my projects are available at [http://osdroidi.com/](OsDroidi.com)
 
 - 📫 How to reach me **OsDroidi@gmail.com**
 
