@@ -28,9 +28,12 @@
 				body { font-size: 3.5em }
 				h1 { font-size: 0.5em }
 			</style>
-			<span class="wave">
-				👋
-			</span>
+			<h1>
+				Hello, World!`
+				<span class="wave">
+					👋🏾
+				</span>
+			</h1>
 		</div>
 	</foreignObject>
 </svg>

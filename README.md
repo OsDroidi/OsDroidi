@@ -1,4 +1,4 @@
-### ```Hello, World!``` <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
+### ```Hello, World!``` <img src="https://raw.githubusercontent.com/osdroidi/osdroidi/master/wave.svg">
 
 I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
 #
