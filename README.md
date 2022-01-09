@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/osdroidi/osdroidi/master/waves.svg">
 
-I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
+### I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
 #
 ### Tech Stack I'm familiar with:
 
