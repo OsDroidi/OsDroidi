@@ -1,4 +1,4 @@
-### ```Hello, World!``` 👋
+### ```Hello, World!``` <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/tags.svg" width="auto" height="auto">
 
 I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
 #
