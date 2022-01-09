@@ -15,7 +15,6 @@ I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm)
-![Shell Script](https://img.shields.io/badge/shell_script-ffffff.svg?style=for-the-badge&logo=gnu-bash)
 ![Git](https://img.shields.io/badge/git-ffffff.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-ffffff.svg?style=for-the-badge&logo=github&logoColor=%23000000)
 
