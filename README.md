@@ -20,7 +20,10 @@
 
 #
 ![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
+
+![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)
 #
+
 ### Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dryJS)
