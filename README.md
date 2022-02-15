@@ -16,10 +16,10 @@
 
 [![NPM](https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/)
 [![Git](https://img.shields.io/badge/git-ffffff.svg?style=for-the-badge&logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/github-ffffff.svg?style=for-the-badge&logo=github&logoColor=%23000000)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/github-ffffff.svg?style=for-the-badge&logo=github&logoColor=%23000000)](https://github.com/OsDroidi/)
 
 #
-![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
+[![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/)
 
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 #
