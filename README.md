@@ -21,7 +21,7 @@
 #
 ![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
 
-![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)
+[![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 #
 
 ### Connect with me
