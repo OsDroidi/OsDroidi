@@ -26,5 +26,4 @@
 
 ### Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dryJS)
 [![linkedin](https://img.shields.io/badge/linkedin-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osdroidi/)
