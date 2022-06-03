@@ -22,6 +22,9 @@
 [![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/)
 
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
+
+Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward.
+[codewars](https://docs.codewars.com/gamification/ranks#required-score)
 #
 
 ### Connect with me
