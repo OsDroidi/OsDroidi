@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px" height="30px"><br>I'm Osama Saeed</h1>
+<h1 align="center">Hello, World! 👋🏻<br>I'm Osama Saeed</h1>
 
 ### I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
 #
