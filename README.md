@@ -1,10 +1,3 @@
-<div align="center">
-	<br>
-	<a href="https://github.com/OsDroidi/OsDroidi/blob/master/wave.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
 <h1 align="center">Hello, World! 👋🏻<br>I'm Osama Saeed</h1>
 
 ### I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
