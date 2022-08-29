@@ -21,6 +21,8 @@
 #
 [![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/)
 
+[![wakatime](https://wakatime.com/badge/user/4ca5fb80-dcbc-457c-97b7-3093e097276e.svg)](https://wakatime.com/@4ca5fb80-dcbc-457c-97b7-3093e097276e)
+
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
 Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward.
