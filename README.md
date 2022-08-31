@@ -1,6 +1,8 @@
 <h1 align="center">Hello, World! 👋🏻<br>I'm Osama Saeed</h1>
 
 ### I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
+
+[![wakatime](https://wakatime.com/badge/user/4ca5fb80-dcbc-457c-97b7-3093e097276e.svg)](https://wakatime.com/@4ca5fb80-dcbc-457c-97b7-3093e097276e)
 #
 ### Tech Stack I'm familiar with:
 
@@ -20,8 +22,6 @@
 
 #
 [![Osama Saeed's GitHub stats](https://github-readme-stats.vercel.app/api/?username=osdroidi&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/)
-
-[![wakatime](https://wakatime.com/badge/user/4ca5fb80-dcbc-457c-97b7-3093e097276e.svg)](https://wakatime.com/@4ca5fb80-dcbc-457c-97b7-3093e097276e)
 
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
