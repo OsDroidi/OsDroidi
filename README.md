@@ -31,4 +31,4 @@ Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This
 
 ### Connect with me
 
-[![linkedin](https://img.shields.io/badge/linkedin-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamah-saeed/)
+[![linkedin](https://img.shields.io/badge/linkedin-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osdroidi)
