@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 👋🏻<br>I'm Osama Saeed</h1>
+<h1 align="center">Hello, World! 👋🏻<br>I'm Osama Mehifoodh</h1>
 
 ### I am a Web/Frontend Developer, I work with Javascript frameworks like [ReactJS](https://beta.reactjs.org/), to create great applications.
 
