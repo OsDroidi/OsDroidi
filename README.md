@@ -13,9 +13,9 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Ant-Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white)
-[![Chakra-UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
-[![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+[![Ant-Design](https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white)](https://ant.design/)
+[![Chakra-UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)](https://chakra-ui.com/)
+[![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 
 [![NPM](https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm)](https://docs.npmjs.com/)
 [![Git](https://img.shields.io/badge/git-ffffff.svg?style=for-the-badge&logo=git)](https://git-scm.com/doc)
