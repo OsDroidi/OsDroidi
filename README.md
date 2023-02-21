@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! 👋🏻<br>I'm Osama Mehifoodh</h1>
 
-### I am a Web/Frontend Developer, I work with Javascript frameworks like [React.js](https://beta.reactjs.org/) / [Next.js](https://nextjs.org/), to create great applications.
+### I am a Web/Frontend Developer, I work with Javascript frameworks like [React.js](https://beta.reactjs.org/) / [Next.js](https://nextjs.org/), to build great applications.
 
 [![wakatime](https://wakatime.com/badge/user/4ca5fb80-dcbc-457c-97b7-3093e097276e.svg)](https://wakatime.com/@4ca5fb80-dcbc-457c-97b7-3093e097276e)
 #
