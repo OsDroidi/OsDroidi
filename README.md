@@ -24,11 +24,11 @@
 #
 [![Osama Mehifoodh's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/osdroidi?cardType=level&theme=react)](https://github.com/OsDroidi/)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=simple-e-commerce-react-js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/simple-e-commerce-react-js)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=simple-e-commerce-react-js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/simple-e-commerce-react-js)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=case-converter-pro&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/case-converter-pro)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=case-converter-pro&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/case-converter-pro)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=react-landing-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/react-landing-page)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=react-landing-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/react-landing-page)
 
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
