@@ -24,7 +24,7 @@
 #
 [![Osama Mehifoodh's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/osdroidi?cardType=level&theme=react)](https://github.com/OsDroidi/)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=simple-e-commerce-react-js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=simple-e-commerce-react-js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/OsDroidi/simple-e-commerce-react-js)
 
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
