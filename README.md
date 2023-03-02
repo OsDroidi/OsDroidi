@@ -22,7 +22,7 @@
 [![GitHub](https://img.shields.io/badge/github-ffffff.svg?style=for-the-badge&logo=github&logoColor=%23000000)](https://github.com/OsDroidi/)
 
 #
-[![Osama Mehifoodh's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/osdroidi?cardType=level&theme=react)](https://git.io/awesome-stats-card)
+[![Osama Mehifoodh's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/osdroidi?cardType=level&theme=react)](https://github.com/OsDroidi/)
 
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
