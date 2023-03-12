@@ -1,4 +1,6 @@
-<h1 align="center">Hello, World! 👋🏻<br>I'm Osama Mehifoodh</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=osdroidi&label=Profile%20views&color=0e75b6&style=flat" alt="zernonia" /> </p>
+
+<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm Osama Mehifoodh</h1>
 
 ### I am a Web/Frontend Developer, I work with Javascript frameworks like [React.js](https://beta.reactjs.org/) / [Next.js](https://nextjs.org/), to build great applications.
 
