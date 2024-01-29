@@ -35,8 +35,6 @@
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=react-landing-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/react-landing-page)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65732f985145316d25d63473?variant=dark&roadmaps=backend%2Cfull-stack%2Cfrontend%2Cnodejs)](https://roadmap.sh)
-
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
 Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward.
