@@ -29,12 +29,6 @@
 #
 [![Osama Mehifoodh's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/osdroidi?cardType=level&theme=react)](https://github.com/OsDroidi/)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=simple-e-commerce-react-js&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/simple-e-commerce-react-js)
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=case-converter-pro&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/case-converter-pro)
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=osdroidi&repo=react-landing-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/OsDroidi/react-landing-page)
-
 [![alt rank](https://www.codewars.com/users/OsDroidi/badges/large)](https://www.codewars.com/users/OsDroidi/stats)
 
 Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward.
@@ -43,4 +37,4 @@ Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This
 
 ### Connect with me
 
-[![linkedin](https://img.shields.io/badge/linkedin-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osdroidi)
+[![linkedin](https://img.shields.io/badge/linkedin-00a0dc?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/osdroidi](https://www.linkedin.com/in/osama-mehifoodh-frontend-web-developer-react-next/))
